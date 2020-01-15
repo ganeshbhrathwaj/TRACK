@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "538989979506",
+    "firebase_url": "https://frdtracker-a10ec.firebaseio.com",
+    "project_id": "frdtracker-a10ec",
+    "storage_bucket": "frdtracker-a10ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538989979506:android:5a93871fe884eb03",
+        "android_client_info": {
+          "package_name": "com.example.vggananesh.frdtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538989979506-k9q9jimd6rdr80qgcembf53f3datqeqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa4KoTLW45-alwS258gmVu7_-X8aOfzBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538989979506-k9q9jimd6rdr80qgcembf53f3datqeqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
